@@ -1,0 +1,25 @@
+section,measure,category,arm,value,percent
+Participant flow,Started,All,Placebo,2,
+Participant flow,Started,All,Sucralfate,3,
+Baseline,Age,<=18 years,Placebo,2,100.0
+Baseline,Age,<=18 years,Sucralfate,3,100.0
+Baseline,Sex,Female,Sucralfate,3,100.0
+Baseline,Sex,Male,Placebo,2,100.0
+Baseline,Race/Ethnicity,Hispanic or Latino,Placebo,2,100.0
+Baseline,Race/Ethnicity,Hispanic or Latino,Sucralfate,3,100.0
+Primary outcome,Oral intake (mL/kg),Participants analyzed,Placebo,2,
+Primary outcome,Oral intake (mL/kg),Participants analyzed,Sucralfate,3,
+Primary outcome,Oral intake (mL/kg),Median,Placebo,8.38,
+Primary outcome,Oral intake (mL/kg),Median,Sucralfate,8.89,
+Primary outcome,Oral intake (mL/kg),Q1,Placebo,8.28,
+Primary outcome,Oral intake (mL/kg),Q1,Sucralfate,7.57,
+Primary outcome,Oral intake (mL/kg),Q3,Placebo,8.47,
+Primary outcome,Oral intake (mL/kg),Q3,Sucralfate,9.45,
+Secondary outcome,IV fluids needed,Yes,Placebo,0,0.0
+Secondary outcome,IV fluids needed,Yes,Sucralfate,0,0.0
+Secondary outcome,Admitted from ED,Yes,Placebo,0,0.0
+Secondary outcome,Admitted from ED,Yes,Sucralfate,0,0.0
+Secondary outcome,Repeat ED visit within 72 h,Yes,Placebo,0,0.0
+Secondary outcome,Repeat ED visit within 72 h,Yes,Sucralfate,0,0.0
+Adverse events,Participants with any adverse event,Yes,Placebo,0,0.0
+Adverse events,Participants with any adverse event,Yes,Sucralfate,0,0.0
